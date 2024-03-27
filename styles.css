@@ -1,4 +1,7 @@
 table, th, td {
   border:1px solid black;
 }
+ul{
+	padding-right:20
+}
 /* Your CSS Code here. */
